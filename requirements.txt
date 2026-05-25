@@ -1,3 +1,7 @@
 FastAPI
 Uvicorn
 pydantic
+sqlalchemy
+pymysql
+alembic
+email-validator
